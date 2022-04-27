@@ -33,7 +33,8 @@
 		"dist/",
 		"ios/",
 		"android/",
-		"JaybabuCapacitorFirebaseAuth.podspec"
+		"JaybabuCapacitorFirebaseAuth.podspec",
+		"src"
 	],
 	"keywords": [
 		"capacitor",
